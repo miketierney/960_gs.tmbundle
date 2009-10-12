@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>class="grid_${1:4} ${2:alpha} ${3:omega}"</string>
+	<key>name</key>
+	<string>class="grid_xx alpha omega"</string>
+	<key>scope</key>
+	<string>text.html</string>
+	<key>tabTrigger</key>
+	<string>clgoa</string>
+	<key>uuid</key>
+	<string>572F4F2B-07B1-41F2-B442-F5B8A33FA894</string>
+</dict>
+</plist>
