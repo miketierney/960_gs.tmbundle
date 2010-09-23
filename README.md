@@ -18,9 +18,14 @@ _**NOTE:** All snippets are tab activated._
 `clo`     ->      `class="omega"`  
 
 `c`     ->      `container_xx `  
-`g`     ->      `grix_xx `  
+`g`     ->      `grix_xx `
+`pr`     ->      `prefix_x`  
+`s`     ->      `suffix_x`
+`ps`     ->      `push_x`  
+`pl`     ->      `pull_x`  
+
 `al`     ->      `alpha `  
-`om`     ->      `omega `   
+`om`     ->      `omega `  
 
 
 If you run in to any issues (or conflicts with the Tab Activators), please open an issue in the reposity (or let me know at mike [at] panpainter [dot] com). Thanks!
